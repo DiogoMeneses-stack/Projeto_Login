@@ -50,4 +50,4 @@ require_once 'backend/validar_login.php';
 
 </html>
 
-<script src="recursos/js/estilo.js"></script>
+<script src="recursos/js/called.js"></script>

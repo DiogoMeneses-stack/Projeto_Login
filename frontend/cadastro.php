@@ -21,8 +21,8 @@
         <section class="header">
             <h2>Nova conta</h2>
         </section>
-
         <form id="form" class="form">
+
             <div class="form-content">
                 <label for="username">Nome do usuário</label>
                 <input type="text" id="username" placeholder="Digite o nome do usuario..." />
@@ -48,11 +48,8 @@
             </div>
 
             <button type="submit">Cadastrar</button>
-
         </form>
-
     </div>
-
 
     <script src="resources/js/script.js"></script>
 </body>
