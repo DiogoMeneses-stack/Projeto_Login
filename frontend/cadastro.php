@@ -10,7 +10,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap" rel="stylesheet">
 
-    <link rel="stylesheet" href="recursos/css/cadastro.css" />
+    <link rel="stylesheet" href="resources/css/register.css" />
 
     <title>Tela de Cadastro</title>
 </head>
@@ -54,7 +54,7 @@
     </div>
 
 
-    <script src="recursos/js/cadastro.js"></script>
+    <script src="resources/js/script.js"></script>
 </body>
 
 </html>
